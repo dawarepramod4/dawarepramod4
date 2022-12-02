@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dawarepramod4
-- 👀 I’m interested in designing and coding
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on flutter projects
+- 👀 believe in turning world into beautiful thing using technology.
+- 🌱 I’m currently working in Flutter at Oasis.
+- 💞️ Always ready to work in any environment.
 - 📫 You can mail me at dawarepramod4@gmail.com
 
 <!---
