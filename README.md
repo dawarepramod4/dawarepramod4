@@ -10,11 +10,11 @@
 # phone_authentication
 phone authentication using firebase
 
-<img src="https://github.com/dawarepramod4/phone_authentication/blob/master/Sceenshots/Screenshot%202022-04-22%20190353.jpg" alt="Your image title" width="250"/>" "<img src="https://github.com/dawarepramod4/phone_authentication/blob/master/Sceenshots/PhonNumber.jpg" alt="Your image title" width="250"/>" "<img src="https://github.com/dawarepramod4/phone_authentication/blob/master/Sceenshots/verify.jpg" alt="Your image title" width="250"/>" "<img src="https://github.com/dawarepramod4/phone_authentication/blob/master/Sceenshots/Profile.jpg" alt="Your image title" width="250"/>
+<img src="https://github.com/dawarepramod4/phone_authentication/blob/master/Sceenshots/Screenshot%202022-04-22%20190353.jpg" alt="Your image title" width="50"/>" "<img src="https://github.com/dawarepramod4/phone_authentication/blob/master/Sceenshots/PhonNumber.jpg" alt="Your image title" width="50"/>" "<img src="https://github.com/dawarepramod4/phone_authentication/blob/master/Sceenshots/verify.jpg" alt="Your image title" width="50"/>" "<img src="https://github.com/dawarepramod4/phone_authentication/blob/master/Sceenshots/Profile.jpg" alt="Your image title" width="50"/>
 # Catalog Application
 catalog application
 
-<img src="https://github.com/dawarepramod4/30daysOfFlutter/blob/day5/assets/Screens/Login.png" alt="Your image title" width="250"/> " "<img src="https://github.com/dawarepramod4/30daysOfFlutter/blob/day5/assets/Screens/Homepage.png" alt="Your image title" width="250"/>" "<img src="https://github.com/dawarepramod4/30daysOfFlutter/blob/day5/assets/Screens/detailpage.png" alt="Your image title" width="250"/>" "<img src="https://github.com/dawarepramod4/30daysOfFlutter/blob/day5/assets/Screens/cart.png" alt="Your image title" width="250"/>
+<img src="https://github.com/dawarepramod4/30daysOfFlutter/blob/day5/assets/Screens/Login.png" alt="Your image title" width="50"/> " "<img src="https://github.com/dawarepramod4/30daysOfFlutter/blob/day5/assets/Screens/Homepage.png" alt="Your image title" width="50"/>" "<img src="https://github.com/dawarepramod4/30daysOfFlutter/blob/day5/assets/Screens/detailpage.png" alt="Your image title" width="50"/>" "<img src="https://github.com/dawarepramod4/30daysOfFlutter/blob/day5/assets/Screens/cart.png" alt="Your image title" width="50"/>
 
 # Spotify Ui Clone
 UI clone of spotify
