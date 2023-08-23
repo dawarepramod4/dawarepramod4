@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @dawarepramod4
 - 👀 believe in turning world into beautiful thing using technology.
-- 🌱 I’m currently working in Flutter at Oasis.
+- 🌱 Currently working in Flutter as FreeLancer.
 - 💞️ Always ready to work in any environment.
 - 📫 You can mail me at dawarepramod4@gmail.com
+- Have worked in JS,Manifest V3, Node js, React also.
 
 ## Form Builder Application
 <img src="https://user-images.githubusercontent.com/91264300/187196633-102e5a06-de73-4ea1-97ce-feb23f61e089.jpg" alt="Your image title" width="700"/>
