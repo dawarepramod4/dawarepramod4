@@ -5,28 +5,12 @@
 - 📫 You can mail me at dawarepramod4@gmail.com
 - Have worked in JS,Manifest V3, Node js, React also.
 
-## Form Builder Application
-<img src="https://user-images.githubusercontent.com/91264300/187196633-102e5a06-de73-4ea1-97ce-feb23f61e089.jpg" alt="Your image title" width="700"/>
-
-# phone_authentication
-phone authentication using firebase
-
-<img src="https://github.com/dawarepramod4/phone_authentication/blob/master/Sceenshots/Screenshot%202022-04-22%20190353.jpg" alt="Your image title" width="150"/>" "<img src="https://github.com/dawarepramod4/phone_authentication/blob/master/Sceenshots/PhonNumber.jpg" alt="Your image title" width="150"/>" "<img src="https://github.com/dawarepramod4/phone_authentication/blob/master/Sceenshots/verify.jpg" alt="Your image title" width="150"/>" "<img src="https://github.com/dawarepramod4/phone_authentication/blob/master/Sceenshots/Profile.jpg" alt="Your image title" width="150"/>
-# Catalog Application
-catalog application
-
-<img src="https://github.com/dawarepramod4/30daysOfFlutter/blob/day5/assets/Screens/Login.png" alt="Your image title" width="105"/> " "<img src="https://github.com/dawarepramod4/30daysOfFlutter/blob/day5/assets/Screens/Homepage.png" alt="Your image title" width="150"/>" "<img src="https://github.com/dawarepramod4/30daysOfFlutter/blob/day5/assets/Screens/detailpage.png" alt="Your image title" width="150"/>" "<img src="https://github.com/dawarepramod4/30daysOfFlutter/blob/day5/assets/Screens/cart.png" alt="Your image title" width="150"/>
-
-# Spotify Ui Clone
-UI clone of spotify
-
-<img src="https://github.com/dawarepramod4/sptofyuiclone/blob/master/assets/Screens/Home%20Screen.png" alt="Your image title" width="150"/> " "<img src="https://github.com/dawarepramod4/sptofyuiclone/blob/master/assets/Screens/SearchScreem.png" alt="Your image title" width="150"/> 
-
-# while learning HTML CSS I created a UI clone of the Youtube.com
-<img src="https://github.com/dawarepramod4/HTML_CSS/blob/a223342aaeea36eb2f91587f66d13f722dc3bfb6/screenshots/youtube%20.jpg" alt="Your image title" width="800"/> 
 
 
-<!---
+![canvas.png](https://github.com/dawarepramod4/dawarepramod4/assets/91264300/1079bcb6-f795-4f79-9642-8bb8e0b97e07)
+
+<!---[RESUME_AUG-2.pdf](https://github.com/dawarepramod4/dawarepramod4/files/12542373/RESUME_AUG-2.pdf)
+
 dawarepramod4/dawarepramod4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
